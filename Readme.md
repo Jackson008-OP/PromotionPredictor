@@ -35,3 +35,5 @@ A Streamlit web application that predicts employee promotions using Machine Lear
 Decision Tree 
 Random Forest
 XGBoost 
+
+https://promotionpredictor.streamlit.app/Predict
